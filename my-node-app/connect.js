@@ -8,7 +8,3 @@ mongoose.connect(uri, {
 }).catch((err) => {
     console.log(err, "no connection")
 })
-
-
-
-
